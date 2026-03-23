@@ -3,7 +3,7 @@ Senior AI & Machine Learning Engineer | Generative AI & MLOps
 
 ---
 
-### 🚀 About Me
+### 🔭 About Me
 I'm a **Senior AI Engineer** based in San Francisco, specializing in building and scaling Generative AI applications. I bridge the gap between cutting-edge research and production-grade software.
 
 - 🔭 Currently working on: **Distributed Training for LLMs**
@@ -11,10 +11,13 @@ I'm a **Senior AI Engineer** based in San Francisco, specializing in building an
 - 💬 Ask me about: **Transformers, MLOps, Computer Vision, and Scaling Python**
 - ⚡ Fun fact: I believe AI is the most powerful tool for human creativity.
 
-### 🛠️ Tech Stack
-- **Languages**: Python, Rust, TypeScript, C++, Go
-- **Frameworks**: PyTorch, TensorFlow, JAX, HuggingFace, LangChain
-- **Tools**: Docker, Kubernetes, AWS, GCP, Weights & Biases, MLflow
+### 🛠️ Categorized Tech Stack
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, Rust, TypeScript, C++, Go |
+| **Frameworks** | PyTorch, TensorFlow, JAX, HuggingFace, LangChain |
+| **Infrastructure** | Docker, Kubernetes, AWS, GCP, Terraform |
+| **Monitoring** | Weights & Biases, MLflow, Prometheus, Grafana |
 
 ### 📊 GitHub Stats
 ![Parker's GitHub stats](https://github-readme-stats.vercel.app/api?username=Plarturer&show_icons=true&theme=radical)
